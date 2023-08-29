@@ -1,5 +1,8 @@
 ### Hi there 👋
-### **<h1>Languages & Tools</h1>**
+### **<h1>Skills</h1>**
+### I use:
+###:java :c++
+
 <!--
 **AdamDawi/AdamDawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
