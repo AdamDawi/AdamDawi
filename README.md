@@ -5,13 +5,12 @@
 
 - 🔭 I’m currently working on **java web application**
 
-- 🌱 I’m currently learning **Spring, meaven**
+- 🌱 I’m currently learning **spring, meaven**
 
 - 💬 Ask me about **c++ and java**
 
 - 📫 How to reach me **adamdawidziuk@onet.pl**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
