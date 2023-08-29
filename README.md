@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **java web application**
 
-- 🌱 I’m currently learning **spring, meaven**
+- 🌱 I’m currently learning **spring, maven**
 
 - 💬 Ask me about **c++ and java**
 
