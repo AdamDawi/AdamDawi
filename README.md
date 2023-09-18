@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamdawi&label=Profile%20views&color=0e75b6&style=flat" alt="adamdawi" /> </p>
 
-- 🔭 I’m currently working on **java web application**
+- 🔭 I’m currently working on **kotlin apps**
 
-- 🌱 I’m currently learning **spring and maven**
+- 🌱 I’m currently learning **spring, maven and kotlin**
 
 - 💬 Ask me about **c++ and java**
 
