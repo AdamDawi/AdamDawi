@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **kotlin apps**
 
-- 🌱 I’m currently learning **spring, maven and kotlin**
+- 🌱 I’m currently learning **jetpack compose**
 
 - 💬 Ask me about **c++ and java**
 
