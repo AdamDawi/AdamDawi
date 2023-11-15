@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **jetpack compose**
 
-- 💬 Ask me about **c++ and java**
+- 💬 Ask me about **c++, java and kotlin**
 
 - 📫 How to reach me **adamdawidziuk@onet.pl**
 
