@@ -29,6 +29,8 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamdawi&show_icons=true&theme=dark&locale=en" alt="adamdawi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamdawi&theme=dark" alt="adamdawi" /></p>
+<div class="grid-container">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamdawi&show_icons=true&theme=dark&locale=en" alt="adamdawi" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamdawi&theme=dark" alt="adamdawi" />
+</div>
+<p><img align="center" src="https://leetcard.jacoblin.cool/AdamDawi?ext=heatmap" alt="adamdawi" /></p>
