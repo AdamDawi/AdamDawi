@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **jetpack compose**
 
 - 💬 Ask me about **c++, java and kotlin**
+  
+- 🧩 Leetcode [AdamDawi](https://leetcode.com/AdamDawi/)
 
 - 📫 How to reach me **adamdawidziuk@onet.pl**
 
