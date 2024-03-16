@@ -29,5 +29,5 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 <h2>🏆 Github & Leetcode Stats </h2>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamdawi&theme=dark" alt="adamdawi" />
-<p><img align="center" src="https://leetcard.jacoblin.cool/AdamDawi?ext=heatmap" alt="adamdawi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamdawi&theme=dark" alt="adamdawi" /></p>
+<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/AdamDawi?ext=heatmap" alt="adamdawi" /></p>
