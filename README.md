@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **kotlin mobile apps**
 
-- 🌱 I’m currently learning **jetpack compose and unit testing**
+- 🌱 I’m currently learning **jetpack compose and application testing**
 
 - 💬 Ask me about **c++, java and kotlin**
   
