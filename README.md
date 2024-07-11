@@ -1,4 +1,5 @@
-![Github phone](https://github.com/AdamDawi/AdamDawi/assets/49430055/a818c0f9-0715-4bcb-a163-d8ac3b07151b)
+<p align="center"><img src="https://github.com/AdamDawi/AdamDawi/assets/49430055/98a5892c-fd41-4663-a4f0-de37bf8e1be6" height="500" align="center" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamdawi&label=Profile%20views&color=0e75b6&style=flat" alt="adamdawi" /> </p>
 
 - 🔭 I’m currently working on **kotlin mobile apps**
