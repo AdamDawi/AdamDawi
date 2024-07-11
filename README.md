@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Dawidziuk</h1>
-<h3 align="center">A passionate programming student from Poland</h3>
-
+![Github phone](https://github.com/AdamDawi/AdamDawi/assets/49430055/a818c0f9-0715-4bcb-a163-d8ac3b07151b)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamdawi&label=Profile%20views&color=0e75b6&style=flat" alt="adamdawi" /> </p>
 
 - 🔭 I’m currently working on **kotlin mobile apps**
