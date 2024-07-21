@@ -4,13 +4,15 @@
 
 - 🔭 I’m currently working on **kotlin mobile apps**
 
-- 🌱 I’m currently learning **jetpack compose and application testing**
+- 🌱 I’m currently learning **application testing techniques and ktor framework**
 
 - 💬 Ask me about **c++, java and kotlin**
   
 - 🧩 Leetcode [AdamDawi](https://leetcode.com/AdamDawi/)
 
 - 📫 How to reach me **adamdawidziuk@onet.pl**
+
+- 🌐 Connect with me on Discord: adas4329
 
 <p align="left">
 </p>
@@ -22,6 +24,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
   <a href="https://developer.android.com/develop/ui/compose" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/spot-icons/jetpack-compose.svg" alt="jetpack compose" width="40" height="40"/> </a> 
+  <a href="https://ktor.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/28214161?s=280&v=4" alt="ktor" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174836.png" alt="android" width="40" height="40"/> </a> 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="android studio" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -32,7 +35,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <p align="center"><img src="https://github.com/user-attachments/assets/fade5bd1-92cf-4b6d-b4a0-b6cee78fb506" height="200" align="center" /></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/87bd64db-5af7-46dd-8199-cb67337f151a" height="200" align="center" /></p>
 </p>
   
 <h2>🏆 Github & Leetcode Stats </h2>
