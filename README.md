@@ -37,7 +37,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <p align="center"><img src="https://github.com/user-attachments/assets/87bd64db-5af7-46dd-8199-cb67337f151a" height="200" align="center" /></p>
 </p>
-  
-<h2>🏆 Github & Leetcode Stats </h2>
+
+<details>
+<summary><h2>🏆 Github & Leetcode Stats </h2></summary>
+<br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamdawi&theme=dark" alt="adamdawi" /></p>
 <p align="center"><img align="center" src="https://leetcard.jacoblin.cool/AdamDawi?ext=heatmap" alt="adamdawi" /></p>
+</details>
