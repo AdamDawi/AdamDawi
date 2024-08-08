@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/AdamDawi/AdamDawi/assets/49430055/98a5892c-fd41-4663-a4f0-de37bf8e1be6" height="350" align="center" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/af243a66-d71c-41f5-869c-bdcfcfd7f382" height="350" align="center" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamdawi&label=Profile%20views&color=0e75b6&style=flat" alt="adamdawi" /> </p>
 
