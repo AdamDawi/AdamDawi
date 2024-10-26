@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **kotlin mobile apps**
 
-- 🌱 I’m currently learning **application testing techniques and ktor framework**
+- 🌱 I’m currently learning **application testing techniques and machine learning**
 
 - 💬 Ask me about **c++, java and kotlin**
   
