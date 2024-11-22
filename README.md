@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamdawi&label=Profile%20views&color=0e75b6&style=flat" alt="adamdawi" /> </p>
 
-- 🔭 I’m currently working on **kotlin mobile apps**
+- 🚀 I’m currently working on [**Higher or Lower**](https://play.google.com/store/apps/details?id=com.adamdawi.higherorlower), available now on **Google Play**! 
+
+- 💡 I’m also developing other **mobile app projects** – stay tuned! 📱 
 
 - 🌱 I’m currently learning **application testing techniques and machine learning**
 
-- 💬 Ask me about **c++, java and kotlin**
-  
 - 🧩 Leetcode [AdamDawi](https://leetcode.com/AdamDawi/)
 
 - 📫 How to reach me **adamdawidziuk@onet.pl**
