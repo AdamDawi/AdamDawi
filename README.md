@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/-C++-%2300599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++ badge" />
   <img src="https://img.shields.io/badge/-Java-%23007396?logo=java&logoColor=white&style=for-the-badge" alt="Java badge" />
   <img src="https://img.shields.io/badge/-Kotlin-%230970D1?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge" />
 </p>
 
 <h3 align="left">📱 Mobile Development:</h3>
@@ -41,7 +42,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge" />
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge" />
 </p>
 <h3 align="left">⚙️ Other Tools & Technologies</h3>
 <p align="left">
