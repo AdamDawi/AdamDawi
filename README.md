@@ -13,10 +13,12 @@
         <img src="https://img.shields.io/badge/-C++-%2300599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++ badge" />
         <img src="https://img.shields.io/badge/-Java-%23007396?logo=java&logoColor=white&style=for-the-badge" alt="Java badge" />
         <img src="https://img.shields.io/badge/-Kotlin-%230970D1?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin badge" />
+        <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge" />
       </p>
       <h3 align="left">📱 Mobile Development:</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/-Jetpack%20Compose-%233DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Jetpack Compose badge" />
+        <img src="https://img.shields.io/badge/-XML-%23F68B1F?logo=file-icons&logoColor=white&style=for-the-badge" alt="XML badge" />
         <img src="https://img.shields.io/badge/-Android-%233DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android badge" />
         <img src="https://img.shields.io/badge/-Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" alt="Android Studio badge" />
         <img src="https://img.shields.io/badge/-Firebase-%23FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase badge" />
@@ -38,9 +40,9 @@
       <p align="left">
         <img src="https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge" />
         <img src="https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge" />
-        <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge" />
+        <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge" />
       </p>
-      <h3 align="left">⚙️ Other Tools & Technologies:</h3>
+      <h3 align="left">⚙️ Other:</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/-Git-%23F05033?logo=git&logoColor=white&style=for-the-badge" alt="Git badge" />
         <img src="https://img.shields.io/badge/-Linux-%23FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux badge" />
