@@ -16,14 +16,14 @@
 
 <h3 align="left">📱 Mobile Development:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Jetpack%20Compose-%233DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Jetpack Compose badge" />
+  <img src="https://img.shields.io/badge/-Jetpack%20Compose-%2309D3AC?logo=android&logoColor=white&style=for-the-badge" alt="Jetpack Compose badge" />
+  <img src="https://img.shields.io/badge/-Android%20Studio-%23232323?logo=androidstudio&logoColor=white&style=for-the-badge" alt="Android Studio badge" />
   <img src="https://img.shields.io/badge/-Android-%233DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android badge" />
-  <img src="https://img.shields.io/badge/-Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" alt="Android Studio badge" />
   <img src="https://img.shields.io/badge/-Firebase-%23FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase badge" />
   <img src="https://img.shields.io/badge/-Ktor-%23000000?logo=kotlin&logoColor=white&style=for-the-badge" alt="Ktor badge" />
   <br>
   <img src="https://img.shields.io/badge/-Dagger%20Hilt-%23003F8C?logo=android&logoColor=white&style=for-the-badge" alt="Dagger Hilt badge" />
-  <img src="https://img.shields.io/badge/-Koin-%2300C4B3?logo=kotlin&logoColor=white&style=for-the-badge" alt="Koin badge" />
+  <img src="https://img.shields.io/badge/-Koin-%23FF6F00?logo=kotlin&logoColor=white&style=for-the-badge" alt="Koin badge" />
   <img src="https://img.shields.io/badge/-Retrofit-%234285F4?logo=android&logoColor=white&style=for-the-badge" alt="Retrofit badge" />
   <img src="https://img.shields.io/badge/-Gradle-%23023036?logo=gradle&logoColor=white&style=for-the-badge" alt="Gradle badge" />
   <img src="https://img.shields.io/badge/-SQLite-%23003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite badge" />
@@ -63,14 +63,22 @@
 
 <h2 align="left">💻🔗 Where you can find me:</h2>
 <p align="center">
-<a href="mailto:adamdawidziuk@onet.pl">
-  <img src="https://img.shields.io/badge/Email-adamdawidziuk@onet.pl-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
-<a href="https://www.linkedin.com/in/adam-dawidziuk/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-</a>
-<img src="https://img.shields.io/badge/Discord-adas4329-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+<p>
+  <a href="mailto:adamdawidziuk@onet.pl">
+    <img src="https://img.shields.io/badge/Email-adamdawidziuk@onet.pl-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Discord-adas4329-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/adam-dawidziuk/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+</p>
+<p>
   <a href="https://leetcode.com/u/AdamDawi/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
-</a>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
+  </a>
+</p>
 </p>
