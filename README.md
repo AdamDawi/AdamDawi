@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/-Java-%23007396?logo=java&logoColor=white&style=for-the-badge" alt="Java badge" />
   <img src="https://img.shields.io/badge/-Kotlin-%230970D1?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin badge" />
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python badge" />
+  <img src="https://img.shields.io/badge/-Swift-%23FA7343?logo=swift&logoColor=white&style=for-the-badge" alt="Swift badge" />
 </p>
 
 <h3 align="left">📱 Mobile Development:</h3>
