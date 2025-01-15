@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/af243a66-d71c-41f5-869c-bdcfcfd7f382" height="350" align="center" /></p>
 
-- 🚀 I'm an **Android Developer**, currently working on [**Higher or Lower**](https://play.google.com/store/apps/details?id=com.adamdawi.higherorlower), available now on **Google Play**! 
+- 🚀 I'm an **Android Developer**, currently working on my app [**Higher or Lower**](https://play.google.com/store/apps/details?id=com.adamdawi.higherorlower), available now on **Google Play**! 
 - 💡 I’m also developing other **mobile app projects** – stay tuned! 📱 
 
 <p>
