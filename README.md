@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/-Espresso-%233DDC84?logo=&logoColor=white&style=for-the-badge" alt="Espresso badge" />
   <img src="https://img.shields.io/badge/-MockK-%237F52FF?logo=&logoColor=white&style=for-the-badge" alt="MockK badge" />
   <img src="https://img.shields.io/badge/-Mockito-%230081CB?logo=&logoColor=white&style=for-the-badge" alt="Mockito badge" />
+  <img src="https://img.shields.io/badge/-Turbine-%2300D100?logo=&logoColor=white&style=for-the-badge" alt="Turbine badge" />
 </p>
 
 <h3 align="left">🌐 Web Development:</h3>
