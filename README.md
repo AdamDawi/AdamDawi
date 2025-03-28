@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/19c307cd-a1fe-4054-aa53-796ff49ddcaa" align="center" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/cad1e651-31e4-43b6-8924-5e9ff49cb42b" align="center" /></p>
 
 - 🚀 I'm an **Android Developer**, currently working on my app [**Higher or Lower**](https://play.google.com/store/apps/details?id=com.adamdawi.higherorlower), available now on **Google Play**! 
 - 💡 I’m also developing other **mobile app projects** – stay tuned! 📱 
