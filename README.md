@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge" />
   <img src="https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python badge" />
   <img src="https://img.shields.io/badge/-Swift-%23FA7343?logo=swift&logoColor=white&style=for-the-badge" alt="Swift badge" />
+  <img src="https://img.shields.io/badge/-PHP-%23777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP badge" />
 </p>
 
 <h3 align="left">📱 Mobile Development:</h3>
