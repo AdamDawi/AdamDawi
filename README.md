@@ -62,7 +62,7 @@
 <summary><h2>🏆 Github & Leetcode Stats </h2></summary>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamdawi&theme=dark" alt="adamdawi" /></p>
-<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/AdamDawi?ext=heatmap" alt="adamdawi" /></p>
+<p align="center"><img align="center" src="https://leetcode-badge-sage.vercel.app/badge/adamdawi?theme=dark&bgColor=282828" alt="adamdawi" /></p>
 </details>
 
 <h2 align="left">💻🔗 Where you can find me:</h2>
